@@ -9,4 +9,4 @@ The mod only **reads** chat. It never posts messages, so rejected requests show 
 
 2. If you plan to start on a brand new save I would highly recommend finishing the first commission without the mod. The game may force the tutorial on you if the first commission is a twitch one and it may behave unpredictably. If you find yourself unable to press something due to the tutorial quitting to the main menu and loading the save back should fix that!
 
-For more indepth info check this website: https://dressmakertwitchintegration.netlify.app/
+For more indepth info as well as installation guide check this website: https://dressmakertwitchintegration.netlify.app/
