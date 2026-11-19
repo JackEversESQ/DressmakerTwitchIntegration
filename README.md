@@ -10,7 +10,7 @@ The mod is **read-only when it comes to Twitch chat**. It never sends messages o
 
 For installation instructions, Twitch commands, and a more detailed explanation of the mod, visit the official guide:
 
-**[Dressmaker Twitch Integration — Website](https://dressmakertwitchintegration.netlify.app/)**
+**[Dressmaker Twitch Integration](https://dressmakertwitchintegration.netlify.app/)**
 
 ## Important: Before Installing
 
@@ -22,9 +22,8 @@ Although I've taken steps to prevent save corruption, I can't completely guarant
 
 As an extra precaution, the mod automatically creates a backup of your existing vanilla save the first time you load it with the mod installed.
 
-You can find these backups here:
+You can find these backups here: `Dressmaker/BepInEx/plugins/DTI/Data/vanilla-backups`
 
-`Dressmaker/BepInEx/plugins/DTI/Data/vanilla-backups`
 
 ### 2. Starting a new game
 
