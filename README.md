@@ -24,7 +24,6 @@ As an extra precaution, the mod automatically creates a backup of your existing 
 
 You can find these backups here: `Dressmaker/BepInEx/plugins/DTI/Data/vanilla-backups`
 
-
 ### 2. Starting a new game
 
 If you're starting a brand-new save, I **highly recommend completing the first commission without the mod**.
@@ -32,6 +31,12 @@ If you're starting a brand-new save, I **highly recommend completing the first c
 The game's tutorial may behave unpredictably if your first commission is from Twitch, potentially preventing you from interacting with certain parts of the game.
 
 If this happens, **return to the main menu and reload your save**. This should resolve the issue.
+
+## Shoutout
+
+I had two good friends to help encourage me and test the mod giving me valuable feedback:
+Calanthae: https://www.twitch.tv/calanthae
+Seishouko: https://www.twitch.tv/seishouko
 
 ## About the Project
 
