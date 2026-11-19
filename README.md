@@ -1,12 +1,51 @@
-# DressmakerTwitchIntegration
-A twitch integration mod for the game dressmaker. Let's your chat commission dresses!
-Viewers request dresses in your Twitch chat. You ring a new *purple* bell at the front desk, meet them as a customer, and sew the commission like any other.
+# Dressmaker Twitch Integration
 
-The mod only **reads** chat. It never posts messages, so rejected requests show up as an on-screen notice for you to relay. 
+**A Twitch integration mod for Dressmaker that lets your viewers commission their own dresses!**
 
-## IMPORTANT BEFORE INSTALLING
-1. I've made sure that the mod will not interfere with game saves, and it should not corrupt saves, however if this happens the first time mod launches it will create a backup of any vanilla save you load into. These can be found inside `Dressmaker/BepInEx/plugins/DTI/Data/vanilla-backups` 
+Viewers can request custom dresses directly through Twitch chat. When a request comes in, ring the new **purple bell** at the front desk to meet your viewer as an in-game customer, then create their dress just like any other commission.
 
-2. If you plan to start on a brand new save I would highly recommend finishing the first commission without the mod. The game may force the tutorial on you if the first commission is a twitch one and it may behave unpredictably. If you find yourself unable to press something due to the tutorial quitting to the main menu and loading the save back should fix that!
+The mod is **read-only when it comes to Twitch chat**. It never sends messages on your behalf. Instead, invalid or rejected requests appear as in-game notifications, so you can relay the information to your viewers.
 
-For more indepth info as well as installation guide check this website: https://dressmakertwitchintegration.netlify.app/
+## Getting Started
+
+For installation instructions, Twitch commands, and a more detailed explanation of the mod, visit the official guide:
+
+**[Dressmaker Twitch Integration — Website](https://dressmakertwitchintegration.netlify.app/)**
+
+## Important: Before Installing
+
+### 1. Save file safety
+
+The mod is designed to keep your existing game saves compatible with the unmodded game.
+
+Although I've taken steps to prevent save corruption, I can't completely guarantee that issues won't occur.
+
+As an extra precaution, the mod automatically creates a backup of your existing vanilla save the first time you load it with the mod installed.
+
+You can find these backups here:
+
+`Dressmaker/BepInEx/plugins/DTI/Data/vanilla-backups`
+
+### 2. Starting a new game
+
+If you're starting a brand-new save, I **highly recommend completing the first commission without the mod**.
+
+The game's tutorial may behave unpredictably if your first commission is from Twitch, potentially preventing you from interacting with certain parts of the game.
+
+If this happens, **return to the main menu and reload your save**. This should resolve the issue.
+
+## About the Project
+
+Dressmaker Twitch Integration is a free, independently developed fan project that I work on in my spare time.
+
+I'm happy to hear feedback, bug reports, and suggestions for new features or improvements. Just keep in mind that I'm working on this alone, so I can't promise to address every issue, implement every suggestion, or maintain the mod indefinitely.
+
+You're welcome to discuss issues or ideas here on GitHub, or reach out to me on Discord: **`jack_evers33`**.
+
+For now, I've decided to keep the mod on GitHub rather than publish it on Nexus Mods, as I'd prefer to keep the project relatively small and manageable.
+
+### Transparency Note
+
+I've used AI tools to assist with parts of the mod's programming and to help understand the game's code.
+
+---
