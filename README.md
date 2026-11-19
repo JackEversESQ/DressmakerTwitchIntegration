@@ -35,7 +35,9 @@ If this happens, **return to the main menu and reload your save**. This should r
 ## Shoutout
 
 I had two good friends to help encourage me and test the mod giving me valuable feedback:
+
 Calanthae: https://www.twitch.tv/calanthae
+
 Seishouko: https://www.twitch.tv/seishouko
 
 ## About the Project
